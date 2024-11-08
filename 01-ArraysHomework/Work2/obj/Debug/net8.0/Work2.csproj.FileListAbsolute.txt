@@ -1,0 +1,15 @@
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/bin/Debug/net8.0/Work2
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/bin/Debug/net8.0/Work2.deps.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/bin/Debug/net8.0/Work2.runtimeconfig.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/bin/Debug/net8.0/Work2.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/bin/Debug/net8.0/Work2.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/obj/Debug/net8.0/Work2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/obj/Debug/net8.0/Work2.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/obj/Debug/net8.0/Work2.AssemblyInfo.cs
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/obj/Debug/net8.0/Work2.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/obj/Debug/net8.0/Work2.sourcelink.json
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/obj/Debug/net8.0/Work2.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/obj/Debug/net8.0/refint/Work2.dll
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/obj/Debug/net8.0/Work2.pdb
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/obj/Debug/net8.0/Work2.genruntimeconfig.cache
+/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week05/Work2/obj/Debug/net8.0/ref/Work2.dll
